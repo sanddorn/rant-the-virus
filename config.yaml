@@ -1,0 +1,30 @@
+baseURL: "http://rant-the-virus.de/"
+languageCode: "de-de"
+title: "Feel better by ranting the virus"
+disqusShortname: rant-the-virus-de
+
+
+params:
+  Share:
+    facebook: true
+    twitter: true
+    reddit: true
+    pocket: true
+  Social:
+    twitter: sanddorn
+    github: sanddorn
+    gitlab: nils.bokermann
+  mainContent: |
+    # Beschimpfe den Virus
+    In einem Interview hat [Sarah Bosetti](http://www.sarahbosetti.com) den Vorschlag gemacht, sich durch die Beschimpfung des Virus,
+    Luft zu machen und so die schwere Zeit des Lockdowns erträglicher zu machen.
+    Diese Seite soll jedem die Möglichkeit geben, seine persöhnliche Beschimpfung an das Virus los zu werden und öffentlich zu machen.
+
+    Es soll hier ausschließlich darum gehen, das Virus zu beschimpfen. Beschimpfungen von
+
+    * Regierung
+    * Politikern
+    * Virologen
+    * Wissenschaftlern
+
+    werden nicht toleriert und die Kommentare werden umgehend gelöscht.

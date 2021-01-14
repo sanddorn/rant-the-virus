@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main class="main">
+    {{- with .Content }}
+    <div class="page block">
+        <div class="page__content page__content--notitle">{{ . }}</div>
+    </div>
+    {{- end }}
+    <div class="cards">
+        <div class="card card--1col">
+            <article class="entry card__box block">
+                {{ .Site.Params.mainContent | markdownify }}
+                {{ partial "share.html" . }}
+                {{ partial "comments.html" . }}
+            </article>
+        </div>
+
+    </div>
+</main>
+{{ end }}
