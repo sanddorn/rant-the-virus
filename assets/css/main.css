@@ -532,7 +532,7 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	}
 
 	.entry__share {
-		flex: 1 0 14%;
+		flex: 1 0;
 		justify-content: flex-end;
 	}
 }
