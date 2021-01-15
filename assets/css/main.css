@@ -540,6 +540,7 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 .share__link {
 	margin: .25rem;
 	font-size: 0;
+	height: fit-content;
 }
 
 .share__link:hover {
