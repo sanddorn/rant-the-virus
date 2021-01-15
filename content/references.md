@@ -1,7 +1,7 @@
 ---
 title: "Referenzen"
 date: 2021-01-15T13:37:45+01:00
-draft: true
+draft: false
 menu: footer
 ---
 Die folgenden Daten wurden zur Bereitstellung dieser Page genutzt:
