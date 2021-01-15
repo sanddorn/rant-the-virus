@@ -1,6 +1,9 @@
 # Rant The Virus
 > English version below
 
+## Build
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ee95463-2fa2-436c-9263-cae13f1153bc/deploy-status)](https://app.netlify.com/sites/lucid-hawking-5fcce2/deploys)
+
 Zur Bekämpfung von schlechter Laune während des Lockdowns können Beschimpfungen des Virus helfen.
 Um einen Kanal dafür zu bieten, habe ich dieses Projekt gestartet. 
 
